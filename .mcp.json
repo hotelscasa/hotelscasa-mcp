@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hotelscasa": {
+      "type": "http",
+      "url": "https://mcp.hotelscasa.com/mcp"
+    }
+  }
+}
