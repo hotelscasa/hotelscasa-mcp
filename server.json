@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hotelscasa/hotelscasa-mcp",
+  "title": "HotelsCasa",
+  "description": "Travel search: 1.3M hotels and apartments, owner homes, tours, flights, taxi, car rental.",
+  "version": "2.0.0",
+  "websiteUrl": "https://hotelscasa.com/",
+  "repository": {
+    "url": "https://github.com/hotelscasa/hotelscasa-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.hotelscasa.com/mcp"
+    }
+  ]
+}
